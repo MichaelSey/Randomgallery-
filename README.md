@@ -1,0 +1,1 @@
+Welcome to my responsive photo gallery! This project showcases a sleek and user-friendly design optimized for all devices, from desktops to smartphones. Built with modern web technologies, the gallery adapts seamlessly to different screen sizes, ensuring an enjoyable viewing experience. Explore and enjoy the visuals!
